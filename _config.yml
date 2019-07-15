@@ -53,4 +53,7 @@ collections:
   services:
     output: true
     permalink: /:collection/:name.html
+  documentations:
+    output: true
+    permalink: /documenations/:name.html
 
